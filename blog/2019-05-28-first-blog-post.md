@@ -11,9 +11,4 @@ date: 2025-08-18T11:15:20.361Z
 description: wefewewgergergergerg
 image: /images/screenshot-2025-07-21-145500.png
 ---
-
-Lorem ipsum dolor sit amet...
-
-<!-- truncate -->
-
-...consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+sArjun
