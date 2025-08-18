@@ -5,6 +5,8 @@ backend:
 media_folder: "static/img"        # where uploaded files are stored
 public_folder: "/img"
 
+site_url: "https://first-demo-2804.netlify.app"
+
 collections:
   - name: "docs"
     label: "Docs"
@@ -15,3 +17,4 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
+
