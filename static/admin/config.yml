@@ -1,0 +1,17 @@
+backend:
+  name: git-gateway
+  branch: main   # or master, depending on your repo
+
+media_folder: "static/img"        # where uploaded files are stored
+public_folder: "/img"
+
+collections:
+  - name: "docs"
+    label: "Docs"
+    folder: "docs"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
