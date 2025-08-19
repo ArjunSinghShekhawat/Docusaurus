@@ -12,7 +12,7 @@ Here’s a custom badge:
 
 
 
-# Translate your site
+# Translate your site egege
 
 Let's translate `docs/intro.md` to French.
 
