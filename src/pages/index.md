@@ -9,7 +9,7 @@ blurb: SmartDocs.AI is your intelligent documentation companion. It transforms
 ---
 ![SmartDocs.AI](/images/smartdocs-logo-1.png "Smart Docs")
 
-![]()
+![dwefwef](/images/screenshot-2025-07-21-145500.png "fewfwefwf")
 
 ```
 public class SmartDocsFeatures {
@@ -39,5 +39,4 @@ public class SmartDocsFeatures {
         System.out.println("✅ SmartDocs.AI makes documentation smarter, searchable, and interactive.");
     }
 }
-
 ```
