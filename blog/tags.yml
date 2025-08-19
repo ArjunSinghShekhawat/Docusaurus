@@ -17,3 +17,10 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+
+instagram:
+  label: instagram
+  permalink: /instagram
+  description: instagram tag description
+
+
