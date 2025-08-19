@@ -1,11 +1,6 @@
 ---
 sidebar_position: 2
 ---
-
-<Badge text="New!" color="green" />
-
-
-
 # Translate your site egege
 
 Let's translate `docs/intro.md` to French.
