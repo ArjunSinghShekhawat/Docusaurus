@@ -2,12 +2,6 @@
 sidebar_position: 2
 ---
 
-import { Badge } from '@site/src/components/Badge';
-
-# Welcome
-
-Here’s a custom badge:
-
 <Badge text="New!" color="green" />
 
 
