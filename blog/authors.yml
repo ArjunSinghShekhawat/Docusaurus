@@ -29,7 +29,7 @@ arjun:
   name: Arjun Singh
   title: Docusaurus maintainer
   url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+  image_url: https://en.wikipedia.org/wiki/Salman_Khan#/media/File:Salman_Khan_in_2023_(1)_(cropped).jpg
   page:
     # customize the url of the author page at /blog/authors/<permalink>
     permalink: '/all-sebastien-lorber-articles1'
